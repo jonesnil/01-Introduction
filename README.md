@@ -1,4 +1,14 @@
 # 01-Introduction
+#
+# If you run this program, you will see my answers to the 
+# introduction questions printed. The questions were:
+#What is your name?
+#What is your favorite game?
+#What concerns do you have about this class?
+#What are you excited about (in general)?
+#What is your stackoverflow.com user number?
+#What is the URL to your github.com profile?
+#
 
 Hello, class! This is the first assignment for MSCH-C220. The requirements for this assignment are as follows:
 
